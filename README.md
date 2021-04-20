@@ -1,2 +1,1 @@
-# github-status
-⚡ Dynamically generated stats for github
+![Okkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=okkarmin&count_private=true)
